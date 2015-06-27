@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Launcher
-// @namespace   AposLauncher
+// @namespace   agario.bot
 // @include     http://agar.io/
 // @version     2.82
 // @grant       none
